@@ -1,6 +1,6 @@
 
-# selezzz
-my name is selezzz, i am russian developer
+# fenny
+my name is fenny, i am russian developer
 my languages: rus/en
 ## 🚀 about me
 i make mods for minecraft forge 1.16.5 - 1.20.1, i am a member of the Stellar Mods team
